@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"Score_System/middleware"
-	"Score_System/model"
-	"Score_System/utils"
+	"backend/middleware"
+	"backend/model"
+	"backend/utils"
 	"fmt"
 	"github.com/gin-gonic/gin"
 )

@@ -1,7 +1,7 @@
 package dao
 
 import (
-	"Score_System/db"
+	"backend/db"
 )
 
 type DAO struct {

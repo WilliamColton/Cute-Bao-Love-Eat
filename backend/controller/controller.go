@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"Score_System/dao"
-	"Score_System/middleware"
+	"backend/dao"
+	"backend/middleware"
 )
 
 type Controller struct {

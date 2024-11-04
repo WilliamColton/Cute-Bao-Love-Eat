@@ -1,8 +1,8 @@
 package router
 
 import (
-	"Score_System/controller"
-	"Score_System/middleware"
+	"backend/controller"
+	"backend/middleware"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 )

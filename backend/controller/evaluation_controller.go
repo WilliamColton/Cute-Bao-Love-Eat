@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"Score_System/model"
-	"Score_System/utils"
+	"backend/model"
+	"backend/utils"
 	"github.com/gin-gonic/gin"
 )
 
