@@ -1,11 +1,11 @@
 package main
 
 import (
-	"Score_System/controller"
-	"Score_System/dao"
-	"Score_System/db"
-	"Score_System/middleware"
-	"Score_System/router"
+	"backend/controller"
+	"backend/dao"
+	"backend/db"
+	"backend/middleware"
+	"backend/router"
 	"fmt"
 	"github.com/spf13/viper"
 )

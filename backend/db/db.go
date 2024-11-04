@@ -1,7 +1,7 @@
 package db
 
 import (
-	"Score_System/model"
+	"backend/model"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )

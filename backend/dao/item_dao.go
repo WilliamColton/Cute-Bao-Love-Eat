@@ -1,6 +1,6 @@
 package dao
 
-import "Score_System/model"
+import "backend/model"
 
 func (d *DAO) CreateItem(m *model.Item) {
 	d.DB.Create(m)

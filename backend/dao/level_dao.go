@@ -1,6 +1,6 @@
 package dao
 
-import "Score_System/model"
+import "backend/model"
 
 func (d *DAO) CreateLevel(level *model.Level) {
 	d.DB.Create(level)
