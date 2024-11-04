@@ -1,0 +1,37 @@
+/* components/card/card.wxss */
+.card{
+  background-color: white;
+  border: none;
+  border-radius: 20rpx;
+  box-shadow: 1px 1px 6px -5px #000000;
+  width: 340rpx;
+  height: 512rpx;
+  margin: 15rpx;
+}
+
+image{
+  border: none;
+  border-radius: 20rpx 20rpx 0 0;
+  height: 70%;
+  width: 100%;
+  margin-bottom: 10rpx;
+}
+
+text{
+  margin-left: 10rpx;
+}
+
+.title{
+  margin-bottom: 5rpx;
+}
+
+.location{
+  font-size: 20rpx;
+  margin-bottom: 5rpx;
+}
+
+.recommendation{
+  color: red;
+  margin-bottom: 5rpx;
+  font-size: 50rpx;
+}

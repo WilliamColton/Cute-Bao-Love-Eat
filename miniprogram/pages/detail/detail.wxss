@@ -1,0 +1,22 @@
+.card{
+  margin-top: 20rpx;
+}
+
+swiper {
+  height: 450rpx;
+  width: 750rpx;
+}
+
+image {
+  height: 450rpx;
+  width: 600rpx;
+  border-radius: 50rpx;
+}
+
+.content{
+  margin-top: 50rpx;
+  width: 650rpx;
+  height: 900rpx;
+  background-color: #e9f2f8;
+  border-radius: 50rpx;
+}
