@@ -1,7 +1,9 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/detail/detail",
+    "pages/ranking/ranking",
+    "pages/user/user"
   ],
   "window": {
     "navigationBarTextStyle": "black",
@@ -17,6 +19,25 @@
       "sdkVersionBegin": "3.0.0",
       "sdkVersionEnd": "15.255.255"
     }
+  },
+  "tabBar": {
+    "color": "#666b69",
+    "selectedColor": "#000000",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/ranking/ranking",
+        "text": "排行"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "用户"
+      }
+    ]
   },
   "componentFramework": "glass-easel",
   "sitemapLocation": "sitemap.json",

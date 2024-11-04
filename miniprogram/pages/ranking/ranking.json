@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "horizontalCard": "/components/horizontalCard/horizontalCard",
+    "nav": "/components/navigation-bar/navigation-bar"
+  }
+}

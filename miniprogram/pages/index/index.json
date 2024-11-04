@@ -1,5 +1,10 @@
 {
   "usingComponents": {
-    "navigation-bar": "/components/navigation-bar/navigation-bar"
-  }
+    "nav": "/components/navigation-bar/navigation-bar",
+    "card": "/components/card/card"
+    
+  },
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "首页"
+  
 }
